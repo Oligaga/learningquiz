@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-47,-13034)">
+        <g id="Linkedin_40x40_white" transform="matrix(0.0738007,0,0,0.0433839,50.2485,12480.8)">
+            <rect x="-43" y="12767" width="542" height="922" style="fill:none;"/>
+            <g id="bxl-trello" transform="matrix(0.630857,0,0,1.07316,-94.9988,12678.5)">
+                <path d="M800,128L224,128C170.965,128 128,170.965 128,224L128,800C128,852.992 170.965,896 224,896L800,896C852.992,896 896,852.992 896,800L896,224C896,170.965 852.992,128 800,128Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g id="bxl-linkedin" transform="matrix(0.33875,0,0,0.57625,56.0415,12929.2)">
+                <path d="M305.963,213.717C305.963,265.275 264.167,307.072 212.608,307.072C161.049,307.072 119.253,265.276 119.253,213.717C119.253,162.159 161.049,120.362 212.608,120.362C264.167,120.362 305.963,162.158 305.963,213.717ZM394.112,377.813L394.112,895.744L554.923,895.744L554.923,639.616C554.923,572.032 567.638,506.581 651.435,506.581C734.08,506.581 735.104,583.85 735.104,643.882L735.104,895.786L896,895.786L896,611.754C896,472.234 865.963,365.013 702.891,365.013C624.598,365.013 572.118,407.978 550.656,448.64L548.48,448.64L548.48,377.813L394.112,377.813ZM132.053,377.813L293.12,377.813L293.12,895.744L132.053,895.744L132.053,377.813Z" style="fill:rgb(81,82,92);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>
